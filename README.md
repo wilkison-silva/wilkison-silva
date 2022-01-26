@@ -21,7 +21,7 @@ https://www.linkedin.com/in/wilkison-martins/
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkison-silva&langs_count=5&theme=tokyonight&layout=compact" alt="rach-vp :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkison-silva&langs_count=10&theme=tokyonight&layout=compact" alt="rach-vp :: Top Langs" /></p>
 
 
 <!---
