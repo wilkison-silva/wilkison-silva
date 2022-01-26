@@ -19,6 +19,10 @@ Welcome to my repository and any doubt, dont' be afraid of asking!
 
 https://www.linkedin.com/in/wilkison-martins/
 
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkison-silva&langs_count=5&theme=tokyonight&layout=compact" alt="rach-vp :: Top Langs" /></p>
+
 
 <!---
 wilkison-silva/wilkison-silva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
