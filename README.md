@@ -6,8 +6,6 @@ Welcome to my repository and any doubt, dont' be afraid of asking!
 
 - 🌱 I’m currently learning:
 
-:pushpin: Navigation
-
 :pushpin: Data Binding
 
 :pushpin: Firebase
